@@ -133,8 +133,7 @@ public class  Laba8_PISM
             i++;    
         }
         fr.close();
-        
-       System.out.println("\n" + "Add new elements and remove the first elements of the array^ ");
+
         Reader r = new InputStreamReader(System.in);
         BufferedReader reader = new BufferedReader(r);
         
