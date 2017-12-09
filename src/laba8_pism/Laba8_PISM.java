@@ -140,6 +140,7 @@ public class  Laba8_PISM
         //    obj.add(4, s);
             
             System.out.println(obj);
+            System.out.println(obj);
             
         }        
    }
